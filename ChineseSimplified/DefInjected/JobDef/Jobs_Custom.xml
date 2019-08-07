@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SowWithSeeds.reportString>收获植物</SowWithSeeds.reportString>
+  <!--[Core] <Harvest.reportString>正在收获TargetA。</Harvest.reportString>-->
+  <!--[Core] <HarvestDesignated.reportString>正在收获TargetA。</HarvestDesignated.reportString>-->
+  <!--[Core] <CutPlant.reportString>正在割除TargetA。</CutPlant.reportString>-->
+  <!--[Core] <CutPlantDesignated.reportString>正在割除TargetA。</CutPlantDesignated.reportString>-->
+
+
+</LanguageData>

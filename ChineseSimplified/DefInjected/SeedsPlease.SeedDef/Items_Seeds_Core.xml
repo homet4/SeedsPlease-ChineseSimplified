@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Seed_Rice.label>水稻种子</Seed_Rice.label>
+  <Seed_Rice.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Rice.description>
+
+  <Seed_Potato.label>土豆种子</Seed_Potato.label>
+  <Seed_Potato.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Potato.description>
+
+  <Seed_Corn.label>玉米种子</Seed_Corn.label>
+  <Seed_Corn.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Corn.description>
+
+  <Seed_Strawberry.label>草莓种子</Seed_Strawberry.label>
+  <Seed_Strawberry.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Strawberry.description>
+
+  <Seed_Haygrass.label>干草种子</Seed_Haygrass.label>
+  <Seed_Haygrass.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Haygrass.description>
+
+  <Seed_Hops.label>啤酒花种子</Seed_Hops.label>
+  <Seed_Hops.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Hops.description>
+
+  <Seed_Smokeleaf.label>大麻种子</Seed_Smokeleaf.label>
+  <Seed_Smokeleaf.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Smokeleaf.description>
+
+  <Seed_Psychoid.label>精神叶种子</Seed_Psychoid.label>
+  <Seed_Psychoid.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Psychoid.description>
+
+  <Seed_TreeDrago.label>墨西哥紫檀种子</Seed_TreeDrago.label>
+  <Seed_TreeDrago.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeDrago.description>
+
+  <Seed_TreeWillow.label>柳树种子</Seed_TreeWillow.label>
+  <Seed_TreeWillow.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeWillow.description>
+
+  <Seed_TreeCypress.label>柏树种子</Seed_TreeCypress.label>
+  <Seed_TreeCypress.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeCypress.description>
+
+  <Seed_TreeMaple.label>枫树种子</Seed_TreeMaple.label>
+  <Seed_TreeMaple.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeMaple.description>
+
+  <Seed_TreeOak.label>橡树种子</Seed_TreeOak.label>
+  <Seed_TreeOak.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeOak.description>
+
+  <Seed_TreePoplar.label>杨树种子</Seed_TreePoplar.label>
+  <Seed_TreePoplar.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreePoplar.description>
+
+  <Seed_TreePine.label>松树种子</Seed_TreePine.label>
+  <Seed_TreePine.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreePine.description>
+
+  <Seed_TreeBirch.label>桦树种子</Seed_TreeBirch.label>
+  <Seed_TreeBirch.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeBirch.description>
+
+  <Seed_TreeTeak.label>柚树种子</Seed_TreeTeak.label>
+  <Seed_TreeTeak.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeTeak.description>
+
+  <Seed_TreeCecropia.label>号角树种子</Seed_TreeCecropia.label>
+  <Seed_TreeCecropia.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeCecropia.description>
+
+  <Seed_TreePalm.label>棕榈树种子</Seed_TreePalm.label>
+  <Seed_TreePalm.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreePalm.description>
+
+  <Seed_TreeBamboo.label>竹种子</Seed_TreeBamboo.label>
+  <Seed_TreeBamboo.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_TreeBamboo.description>
+
+  <Seed_SaguaroCactus.label>仙人掌种子</Seed_SaguaroCactus.label>
+  <Seed_SaguaroCactus.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_SaguaroCactus.description>
+
+
+  <!--<SeedRice.label>水稻种子</SeedRice.label>-->
+  <!--<SeedRice.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedRice.description>-->
+  <!--<SeedPotato.label>土豆种子</SeedPotato.label>-->
+  <!--<SeedPotato.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedPotato.description>-->
+  <!--<SeedCorn.label>玉米种子</SeedCorn.label>-->
+  <!--<SeedCorn.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedCorn.description>-->
+  <!--<SeedStrawberry.label>草莓种子</SeedStrawberry.label>-->
+  <!--<SeedStrawberry.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedStrawberry.description>-->
+  <!--<SeedHaygrass.label>干草种子</SeedHaygrass.label>-->
+  <!--<SeedHaygrass.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedHaygrass.description>-->
+  <!--[Duplicated] <SeedHealroot.label>healroot种子</SeedHealroot.label>-->
+  <!--[Duplicated] <SeedHealroot.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedHealroot.description>-->
+  <!--<SeedHops.label>啤酒花种子</SeedHops.label>-->
+  <!--<SeedHops.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedHops.description>-->
+  <!--<SeedSmokeleaf.label>大麻种子</SeedSmokeleaf.label>-->
+  <!--<SeedSmokeleaf.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedSmokeleaf.description>-->
+  <!--<SeedPsychoid.label>精神叶种子</SeedPsychoid.label>-->
+  <!--<SeedPsychoid.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedPsychoid.description>-->
+  <!--<SeedTreeOak.label>橡树种子</SeedTreeOak.label>-->
+  <!--<SeedTreeOak.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedTreeOak.description>-->
+  <!--<SeedTreePoplar.label>杨树种子</SeedTreePoplar.label>-->
+  <!--<SeedTreePoplar.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedTreePoplar.description>-->
+  <!--<SeedTreePine.label>松树种子</SeedTreePine.label>-->
+  <!--<SeedTreePine.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedTreePine.description>-->
+  <!--<SeedTreeBirch.label>桦树种子</SeedTreeBirch.label>-->
+  <!--<SeedTreeBirch.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedTreeBirch.description>-->
+  <!--<SeedTreeTeak.label>柚树种子</SeedTreeTeak.label>-->
+  <!--<SeedTreeTeak.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedTreeTeak.description>-->
+  <!--<SeedTreeCecropia.label>号角树种子</SeedTreeCecropia.label>-->
+  <!--<SeedTreeCecropia.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedTreeCecropia.description>-->
+
+</LanguageData>

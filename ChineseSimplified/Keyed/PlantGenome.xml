@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--<Genome>基因组</Genome>-->
+  <!--<GrowSpeedMult>生长速度 : {0}</GrowSpeedMult>-->
+  <!--<HarvestAmountMult>收获量 : {0}</HarvestAmountMult>-->
+  <!--<BaseSeedChance>基础种子机率 : {0}</BaseSeedChance>-->
+  <!--<AddSeedChance>额外种子机率 : {0}</AddSeedChance>-->
+  <!--<CanSurviveBlight>枯萎病免疫 : {0}</CanSurviveBlight>-->
+  <!--<CanSurviveFrost>冻死免疫 : {0}</CanSurviveFrost>-->
+  <!--<CanGrowAtNight>夜间生长 : {0}</CanGrowAtNight>-->
+
+</LanguageData>

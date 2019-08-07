@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsTableSeeds.label>挑选种子</DoBillsTableSeeds.label>
+  <DoBillsTableSeeds.verb>挑选种子</DoBillsTableSeeds.verb>
+  <DoBillsTableSeeds.gerund>挑选种子中.</DoBillsTableSeeds.gerund>
+
+  <!--[Core] <GrowerSow.label>播种作物</GrowerSow.label>-->
+  <!--[Core] <GrowerSow.verb>播种</GrowerSow.verb>-->
+  <!--[Core] <GrowerSow.gerund>播种</GrowerSow.gerund>-->
+
+
+</LanguageData>

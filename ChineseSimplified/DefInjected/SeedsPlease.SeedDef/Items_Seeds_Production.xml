@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Seed_Cotton.label>棉花种子</Seed_Cotton.label>
+  <Seed_Cotton.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Cotton.description>
+
+  <Seed_Devilstrand.label>恶魔菇种子</Seed_Devilstrand.label>
+  <Seed_Devilstrand.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Devilstrand.description>
+
+  <Seed_Healroot.label>草药种子</Seed_Healroot.label>
+  <Seed_Healroot.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Healroot.description>
+
+  <Seed_Cocoa.label>可可豆种子</Seed_Cocoa.label>
+  <Seed_Cocoa.description>这些由基因工程培育的种子能在不同的外形环境中敷繁衍后代.</Seed_Cocoa.description>
+
+
+  <!--<SeedCotton.label>棉花种子</SeedCotton.label>-->
+  <!--<SeedCotton.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedCotton.description>-->
+  <!--<SeedDevilstrand.label>恶魔菇种子</SeedDevilstrand.label>-->
+  <!--<SeedDevilstrand.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedDevilstrand.description>-->
+  <!--<SeedHealroot.label>草药种子</SeedHealroot.label>-->
+  <!--<SeedHealroot.description>这些转基因种子能够在一个陌生的环境旺盛生长.</SeedHealroot.description>-->
+
+</LanguageData>

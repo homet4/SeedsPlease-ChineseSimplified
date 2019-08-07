@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RawCotton.label>棉花</RawCotton.label>
+  <RawCotton.description>棉花纤维，在植物处理台纺织成布.</RawCotton.description>
+
+  <RawDevilstrand.label>恶魔菇</RawDevilstrand.label>
+  <RawDevilstrand.description>刚摘下来的恶魔菇，在植物处理台纺织成布.</RawDevilstrand.description>
+
+  <RawHealroot.label>药草</RawHealroot.label>
+  <RawHealroot.description>摘下来的药草，在植物处理台制成草药.</RawHealroot.description>
+
+  <RawCocoaBeans.label>可可豆</RawCocoaBeans.label>
+  <RawCocoaBeans.description>生可可豆制成巧克力.</RawCocoaBeans.description>
+
+
+</LanguageData>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractSeedCotton.label>挑选棉花种子</ExtractSeedCotton.label>
+  <ExtractSeedCotton.description>从棉花中挑选种子.</ExtractSeedCotton.description>
+  <ExtractSeedCotton.jobString>挑选种子中.</ExtractSeedCotton.jobString>
+
+  <ProcessRawCotton.label>纺织布</ProcessRawCotton.label>
+  <ProcessRawCotton.description>将棉花织成布.</ProcessRawCotton.description>
+  <ProcessRawCotton.jobString>织布中.</ProcessRawCotton.jobString>
+
+  <ExtractSeedDevilstrand.label>挑选恶魔菇种子</ExtractSeedDevilstrand.label>
+  <ExtractSeedDevilstrand.description>从恶魔菇中挑选种子.</ExtractSeedDevilstrand.description>
+  <ExtractSeedDevilstrand.jobString>挑选种子中.</ExtractSeedDevilstrand.jobString>
+
+  <ProcessRawDevilstrand.label>纺织魔菇布</ProcessRawDevilstrand.label>
+  <ProcessRawDevilstrand.description>将恶魔菇织成魔菇布.</ProcessRawDevilstrand.description>
+  <ProcessRawDevilstrand.jobString>织布中.</ProcessRawDevilstrand.jobString>
+
+  <ExtractSeedHealroot.label>挑选药草种子</ExtractSeedHealroot.label>
+  <ExtractSeedHealroot.description>从药草中挑选种子.</ExtractSeedHealroot.description>
+  <ExtractSeedHealroot.jobString>挑选种子中.</ExtractSeedHealroot.jobString>
+
+  <ProcessRawHealroot.label>制作草药</ProcessRawHealroot.label>
+  <ProcessRawHealroot.description>把药草制成草药.</ProcessRawHealroot.description>
+  <ProcessRawHealroot.jobString>制造中.</ProcessRawHealroot.jobString>
+
+  <ExtractSeed_Cocoa.label>挑选可可豆种子</ExtractSeed_Cocoa.label>
+  <ExtractSeed_Cocoa.description>从可可豆中提取种子.</ExtractSeed_Cocoa.description>
+  <ExtractSeed_Cocoa.jobString>挑选种子中.</ExtractSeed_Cocoa.jobString>
+
+  <ProcessRawCocoa.label>制作巧克力</ProcessRawCocoa.label>
+  <ProcessRawCocoa.description>加入甜味剂的可可豆被磨碎制成巧克力.</ProcessRawCocoa.description>
+
+
+</LanguageData>

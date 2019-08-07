@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantProcessingTable.label>植物处理台</PlantProcessingTable.label>
+  <PlantProcessingTable.description>进行植物处理工作.</PlantProcessingTable.description>
+  <PlantProcessingTable_Blueprint.label>植物处理台(蓝图)</PlantProcessingTable_Blueprint.label>
+  <PlantProcessingTable_Blueprint_Install.label>植物处理台(蓝图)</PlantProcessingTable_Blueprint_Install.label>
+  <PlantProcessingTable_Frame.label>植物处理台(建造中)</PlantProcessingTable_Frame.label>
+  <PlantProcessingTable_Frame.description>进行植物处理工作中.</PlantProcessingTable_Frame.description>
+
+
+</LanguageData>
